@@ -43,12 +43,12 @@ const Home = () => {
           <div className='nav2'>Testimonials</div>
           <div className='nav2'>Contact Us</div>
           <div className='nav3'>
-            <div><img src={phone} alt='phone' className='phone' /></div>
-            <div><img src={cart} alt='phone' className='phone' /></div>
+            <div><img src='https://assets.stickpng.com/images/5a452601546ddca7e1fcbc87.png' alt='phone' className='phone' /></div>
+            <div><img src='https://www.freeiconspng.com/thumbs/cart-icon/basket-cart-icon-27.png' alt='phone' className='phone' /></div>
 
           </div>
           <div className='nav4'>
-            <img onClick={openNav} src={options} alt='opt' className='phone' />
+            <img onClick={openNav} src='https://cdn-icons-png.flaticon.com/512/82/82122.png' alt='opt' className='phone' />
           </div>
         </div>
         <div className='body'>
